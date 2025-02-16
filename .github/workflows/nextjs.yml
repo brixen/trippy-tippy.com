@@ -1,4 +1,4 @@
-name: Trippy Tippy
+name: GitHub Pages Build
 
 on:
   push:
